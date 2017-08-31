@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "U盘偷猎者", "U盘偷猎者\U盘偷猎者.vcxproj", "{8F826115-DFAD-4B0A-91F3-975654FBA1A4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "U盘偷猎者_Window", "U盘偷猎者_Window\U盘偷猎者_Window.vcxproj", "{754FC4F7-D777-4A39-983D-69730C21ED7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Debug|x64.ActiveCfg = Debug|x64
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Debug|x64.Build.0 = Debug|x64
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Debug|x86.ActiveCfg = Debug|Win32
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Debug|x86.Build.0 = Debug|Win32
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Release|x64.ActiveCfg = Release|x64
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Release|x64.Build.0 = Release|x64
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Release|x86.ActiveCfg = Release|Win32
-		{8F826115-DFAD-4B0A-91F3-975654FBA1A4}.Release|x86.Build.0 = Release|Win32
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Debug|x64.ActiveCfg = Debug|x64
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Debug|x64.Build.0 = Debug|x64
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Debug|x86.Build.0 = Debug|Win32
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Release|x64.ActiveCfg = Release|x64
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Release|x64.Build.0 = Release|x64
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Release|x86.ActiveCfg = Release|Win32
+		{754FC4F7-D777-4A39-983D-69730C21ED7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
